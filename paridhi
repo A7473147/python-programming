@@ -15,7 +15,7 @@ while(i<n):
 	a = b
 	b = sum
 	i = i + 1;
-#To check whether the number is prime or not
+#checking whether the number is prime or not
 num=int(input("Enter a number"))
 i = 2
 while(i<num):
@@ -26,7 +26,7 @@ while(i<num):
 else:
 	print("Prime Number")
 
-#Printing palindrome number
+#Printing Palindrome Number
 num = int(input("Enter a number"))
 reverse = 0
 temp = num
